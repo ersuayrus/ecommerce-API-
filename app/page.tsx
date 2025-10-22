@@ -1,6 +1,6 @@
 "use client"
 
-import  from "../public/script"
+import  from "../routes/products"
 
 export default function SyntheticV0PageForDeployment() {
   return < />
